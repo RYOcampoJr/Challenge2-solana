@@ -1,0 +1,26 @@
+{
+  "name": "challenge1-solana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.50.1",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RYOcampoJr/Challenge1-solana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RYOcampoJr/Challenge1-solana/issues"
+  },
+  "homepage": "https://github.com/RYOcampoJr/Challenge1-solana#readme",
+  "description": ""
+}
